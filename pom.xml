@@ -59,7 +59,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <image>
-                        <name>hello-world-app</name>
+                        <name>hello-world-bmk</name>
                     </image>
                     <excludes>
                         <exclude>
